@@ -1,0 +1,12 @@
+﻿3.0.0：
+	包含 Nec、宝获利&海信、有安称，3种pos机型，打印代码。
+    <!--有安称Pos设置为2。Nec和其他pos可以不设置此值，因为，会优先从Nec的本地db读取，如果读取不到，才会以此值为准(1代表是Nec厂商pos)-->
+    <add key="isNec" value="2" />
+    <!--有安称Pos程序内的Mettler_pos_ad_dll.dll的带文件名的全路径-->
+    <add key="uanDllFullPath" value="xxx:\xxxxxxxx\xxxxx.xxx" />
+    <!--有安称Pos主程序进程的带文件名的全路径-->
+    <add key="uanPosExeFullPath" value="xxx:\xxxxxxxx\xxxxx.xxx" />
+3.0.1：
+	加入了单独读取pos号的方法：OpenCashBox_QS.posNum();     返回值是string型的pos号
+3.0.2：
+	点击关闭按钮，实现最小化

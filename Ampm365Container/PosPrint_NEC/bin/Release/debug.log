@@ -1,0 +1,14 @@
+[1116/180151:WARNING:CefAppUnmanagedWrapper.cpp(88)] A context has been created for the same browser / frame without context released called previously
+
+[1116/180238:ERROR:ipc_channel_win.cc(475)] pipe error: 109
+[1116/193626:WARNING:CefAppUnmanagedWrapper.cpp(88)] A context has been created for the same browser / frame without context released called previously
+
+[1116/193635:WARNING:CefAppUnmanagedWrapper.cpp(88)] A context has been created for the same browser / frame without context released called previously
+
+[1116/193655:ERROR:ipc_channel_win.cc(475)] pipe error: 109
+[1130/141458:WARNING:CefAppUnmanagedWrapper.cpp(88)] A context has been created for the same browser / frame without context released called previously
+
+[0102/182839:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0110/192252:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0211/154414:WARNING:CefAppUnmanagedWrapper.cpp(88)] A context has been created for the same browser / frame without context released called previously
+
